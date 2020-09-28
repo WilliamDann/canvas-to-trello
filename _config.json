@@ -1,0 +1,9 @@
+{
+    "canvas-school": "[CANVAS_PREFIX]",
+    "canvas-key": "[CANVAS_API_KEY]",
+    
+    "trello-key": "[TRELLO_API_KEY]",
+    "trello-token": "[TRELLO_API_TOKEN]",
+    "trello-board-id": "[TRELLO_BOARD_ID]",
+    "trello-list-create-to": "[TRELLO_LIST_TO_AD_TO]"
+}
