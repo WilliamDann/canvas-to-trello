@@ -1,0 +1,25 @@
+☐ Create missing labels
+    Create labels for new classes when they dont already exist in trello
+
+✔ Dont create existing todo items @started(20-09-26 21:20) @done(20-09-26 21:33) @lasted(13m25s)
+    Do not create todo items for cards that already exist
+
+☐ Put on github?
+    possibly put on github
+
+    ☐ Clean code
+        the code needs to be more namagable first
+
+    ☐ Customization options
+        there needs to be more options for use
+
+        ☐ date range todo item getting
+            get todo items within a date range from canvas
+        
+        ☐ automatic popualtion
+            populate todo items not based on date but at the time of creation
+            
+            webhooks?
+
+    ☐ List managment
+        Be able to determine what list a card lands in
